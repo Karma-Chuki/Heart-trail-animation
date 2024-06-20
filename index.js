@@ -14,3 +14,5 @@ bodyEl.addEventListener("mousemove", (event)=>{
         spanEl.remove();
     }, 3000);
 })
+
+//i made some changes
